@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine seasonable quærie's [sic] propounded for divers parties of different interest, and very necessary to be considered of at present. Viz. [brace] For the two Houses of Parl. For the City of London. For the reformadoe souldiers. For the kingdome in generall. For our brethren the Scots. For Major Gen. Laughorne. For the Presbyters.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78500</idno>
+            <idno type="STC">Wing C1755</idno>
+            <idno type="STC">Thomason E396_17</idno>
+            <idno type="STC">ESTC R201653</idno>
+            <idno type="EEBO-CITATION">99862153</idno>
+            <idno type="PROQUEST">99862153</idno>
+            <idno type="VID">160348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78500)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E396[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine seasonable quærie's [sic] propounded for divers parties of different interest, and very necessary to be considered of at present. Viz. [brace] For the two Houses of Parl. For the City of London. For the reformadoe souldiers. For the kingdome in generall. For our brethren the Scots. For Major Gen. Laughorne. For the Presbyters.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed ann. Dom. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "For the two ... For the Presbyters." are bracketed together on title page.</note>
+                  <note>Annotation on Thomason copy: "July. 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160348:1"/>
+            <pb facs="tcp:160348:1" rendition="simple:additions"/>
+            <p>CERTAINE SEASONABLE QVAERIES <hi>Propounded</hi> For divers parties of different In<g ref="char:EOLhyphen"/>tereſt, and very neceſſary to be conſidered of at preſent. viz.
+<list>
+                  <item>
+                     <hi>For the two Houſes of Parl.</hi>
+                  </item>
+                  <item>
+                     <hi>For the City of</hi> London.</item>
+                  <item>
+                     <hi>For the Reformed Souldiers.</hi>
+                  </item>
+                  <item>
+                     <hi>For the Kingdome in generall.</hi>
+                  </item>
+                  <item>
+                     <hi>For our Brethren the Scots.</hi>
+                  </item>
+                  <item>
+                     <hi>For Major Gen.</hi> Laughorne.</item>
+                  <item>
+                     <hi>For the Presbyters.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>LONDON, Printed <hi>Ann. Dom.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb facs="tcp:160348:2"/>
+            <pb n="1" facs="tcp:160348:2"/>
+            <head>Certaine ſeaſonable Quaeries propounded for divers parties of different Intereſt and very neceſſary to be conſidered of at preſent.</head>
+            <p n="1">
+               <note place="margin">For the Hou<g ref="char:EOLhyphen"/>ſes of Parl.</note> 
+               <label>1. <hi>Quaere.</hi>
+               </label> VVHither the Kingdome be deſirous to ingage it ſelfe in a new warre, or that the people of England have ſo irrevocably obliged them<g ref="char:EOLhyphen"/>ſelves to their <hi>truſtees</hi> that they will hazard more bloodſhed and a common confuſion by protecting of ſome faulty mem<g ref="char:EOLhyphen"/>bers from being brought to common Juſtice? and whether (as the Scots ſaid in the Earle of <hi>Straffords</hi> caſe) it bee not better that a few rather then unity periſh?</p>
+            <p n="2">2. Whether it be a juſt Privilege of parliament, that every Member ſhall be free from being queſtioned for any crimes; and whether they ought not to be liable to the cen<g ref="char:EOLhyphen"/>ſure of the law for miſdemeanors?</p>
+            <p n="3">3. Whether the Army or any man can imagine that juſtice will be done againſt a Member of the Parl, for any of<g ref="char:EOLhyphen"/>fence whatſoever, either by the Houſe or any of the Commit<g ref="char:EOLhyphen"/>tees (notwithſtanding the late Order, giving liberty and in<g ref="char:EOLhyphen"/>vitation to all men, to queſtion them for bribe taking and corruption) for they will not condemne themſelves or their fellowes?</p>
+            <p n="4">4. Whither it ſtand with the honour and dignity of a Parliament, and conforme to the practice of former times to vote Contradictions, and re-aſſume to the queſtion matters that have been reſolved upon full debate by the whole Houſe:
+<pb n="2" facs="tcp:160348:3"/>and whether there was ever heard of ſuch a breach of Privi<g ref="char:EOLhyphen"/>lege of Parliament, as to order the expunging of the De<g ref="char:EOLhyphen"/>claration of the 30 of <hi>March</hi> 1647 againſt the Army, with<g ref="char:EOLhyphen"/>out any grounds that were not knowne before?</p>
+            <p n="5">5. Whether it be not to be wiſhed by all men who are tender of the dignity and reverence that is due to Parliaments, that this preſent Parliament ſhould be diſſolved rather than the charged Members ſhould be plucked out of the Houſe by the Army, which they muſt be neceſſitated to doe in or<g ref="char:EOLhyphen"/>der to their own ſafety, and for preventing another imbroil<g ref="char:EOLhyphen"/>ment of the Kingdome in blood, if the Houſe inſiſt on their Votes of the 25 of <hi>Iune,</hi> for the charged Members vindi<g ref="char:EOLhyphen"/>cation.</p>
+            <p n="6">6. <note place="margin">For the City of London.</note> Whether the ingaging in a new warre doth not con<g ref="char:EOLhyphen"/>cern the City of London a little, and therefore whether it be not important that a common hall be called before any thing be reſolved on in that kinde, ſo that they be not lead blindly by the Common-Councell, (many of whom are as fearefull to be called to an accompt as the charged Members) to act any thing that may hazard the ſafetie of the City and King<g ref="char:EOLhyphen"/>dome?</p>
+            <p n="7">7. Whether in caſe of another civill War, the Exciſe, Twentieth, and Fifth parts, Contributions, and all the other heavy taxes will not be ſet on foot againe, and greater op<g ref="char:EOLhyphen"/>preſſion uſed to raiſe Monies, and to maintain it then before, and conſidering that the Countries which were the ſeat of the late Warre are almoſt wholly exhauſted, whether is not this City like to pay all the reckoning?</p>
+            <p n="8">8. It is very remarkable that this City (above any in the world) hath never been ſacked: Our Hiſtories attribute its preſervation to the great wiſedome and providence of the Magiſtrates and Inhabitants, who in times of danger time<g ref="char:EOLhyphen"/>ouſly declined ſuch hazards, Therefore is it not good Coun<g ref="char:EOLhyphen"/>ſell to wiſh the preſent age to follow the example of their
+<pb n="3" facs="tcp:160348:3"/>prudent Anceſtors, and to uſe the ſame meanes whereby to obtaine the like bleſſing of peace and ſafety?</p>
+            <p n="9">9. Whether there can be hoped for either peace or ſafe<g ref="char:EOLhyphen"/>ty untill the King bee reſtored to all his Rights in honour, the Law enlivened, the Army paid their full Arrears, ſatis<g ref="char:EOLhyphen"/>fied in their juſt dernands and disbanded, that wide breach of love and charity be cloſed up by an Act of oblivion, and tender Conſciences be regarded in what is meet?</p>
+            <p n="10">10. <note place="margin">For the Refor<g ref="char:EOLhyphen"/>madoe Soul<g ref="char:EOLhyphen"/>diers.</note> Whether the Reformadoe- Officers and Souldiers doe believe in their Conſciences that the Parliament have now at length paid them their Arreares out of a good will, and whether if the Army had not ſtood upon it they ſhould have received any Mony at all, and therefore are not all ſuch as have got benefit by the Army bound in gratitude not to oppoſe their friends?</p>
+            <p n="11">11. <note place="margin">For the King<g ref="char:EOLhyphen"/>dome in gene<g ref="char:EOLhyphen"/>rall.</note> Whether this Kingdome can ever hope for any eaſe or juſtice during the ſitting of this Parliament, ſince the Lords have weekly for theſe eighteen moneths ſent down to the Houſe of Commons to deſire their concurrence for diſſolving that great oppreſſion <hi>Country Committees,</hi> and yet the Commons would not vouchſafe hitherto to put it to the queſtion?</p>
+            <p n="12">12. Whether it be not neceſſary that all the Members of Parliament, all Committee men, Exciſe men, Cuſtomers and others, who have been imployed in the publique Re<g ref="char:EOLhyphen"/>ceipts of the Kingdome ſhould be called ſpeedily to a ſtrict accompt; And ſince it is cleer that above forty Millions of Mony have been levied upon the Kingdome ſince the late Warre, for the publick uſe, and yet not a Twentieth part thereof imployed to that end, Whether the Countries ought not juſtly to refuſe and withſtand the raiſing of any more Monies, till they have a good accompt how what is already paid hath beene diſpoſed of, and whether it be not fitter that all the Publick Receivers aforeſaid ſhould pay downe
+<pb n="4" facs="tcp:160348:4"/>what is remaining in their hands, &amp; that the gratified Mem<g ref="char:EOLhyphen"/>bers ſhould diſgorge their large remunerations towards the ſpeedy diſcharge of the Army, and the reliefe of our di<g ref="char:EOLhyphen"/>ſtreſſed Brethren in Ireland, then that the Kingdome ſhould be further impoveriſhed by new Taxations, as the Ordi<g ref="char:EOLhyphen"/>nance of ſixty thouſand pounds monethly, which if ſub<g ref="char:EOLhyphen"/>mitted to will be endleſſe?</p>
+            <p n="13">13. Whether the people of England did not ſo well like of the Scottiſh Armie's behaviour, that they will eſteem thoſe men their friends who labour to bring them into the Kingdome againe, and whether the North-Countries (if they come) will not bid them welcome to England with a vengeance?</p>
+            <p n="14">14. <note place="margin">For our Bre<g ref="char:EOLhyphen"/>thren the <hi>Scots.</hi>
+               </note> Whether the <hi>Scots</hi> can be ſo impudent as to hope His Majeſtie can thinke well of them? And whether they are not more diſpleaſed with their Parliament Friends for looſing the King, then the Cavaliers were with the <hi>Scots</hi> for ſelling Him? And though they have no mind to reſtore the money (as <hi>Iudas</hi> did in the like caſe) yet it is a queſtion whe<g ref="char:EOLhyphen"/>ther they are not ready to hang themſelves to heare that the King is with the Army?</p>
+            <p n="15">15. <note place="margin">For Major <hi>Laughorne.</hi>
+               </note> Whether Major Generall <hi>Laughorne</hi> hopes he ſhall be better rewarded for adhering to the two Houſes of Par<g ref="char:EOLhyphen"/>liament againſt the King and the Army, then he was for his former Services, for which when a Committee-man of Wales moved that <hi>Laughorne</hi> and his men might be imploy<g ref="char:EOLhyphen"/>ed for Ireland and the Countrey rid of him, <hi>Michaell Oldſ<g ref="char:EOLhyphen"/>worth,</hi> the Earl of <hi>Pembrockes</hi> Directorie made, Anſwer, that they did not onely thinke them unfit for that Service, but not to deſerve the Character of Chriſtians?</p>
+            <p n="16">16. <note place="margin">For the Preſ<g ref="char:EOLhyphen"/>byters.</note> Whether the Aſſembly of Presbyters have not juſt cauſe to be offended with the two Houſes for not Voting them to be <hi>Iure Divino</hi> when they could not prove it? And whether the Aſſembly might not have had a Creed as cheape
+<pb n="5" facs="tcp:160348:4"/>as the <hi>Direstory</hi> and <hi>Covenant</hi> from their deare Brethren of Scotland? And whether we ſhall ever ſee their New Con<g ref="char:EOLhyphen"/>feſſion of Faith, becauſe we have not heard of it almoſt theſe two moneths (that is) ſince the Houſe of Commons (as their <hi>Diurnalls</hi> ſpeake) upon debate of it, Voted and paſſed God the Father?</p>
+            <p n="17">17. Whether the Aſſembly doe not now find that the Conſtitution of the people of England will never admit of the Presbyterian Government? And whether they ought not to implore the prayers of all good people, that God and the King will be pleaſed to take them to his mercy now they are at their laſt gaſpe?</p>
+            <p n="18">18. But if any of them or their Elders, continue obſti<g ref="char:EOLhyphen"/>nate in their Rebellion and madneſſe, whether the Receipt commended by
+<note n="*" place="margin"> Who in his booke, called <hi>The Fire of the Sanctuary new<g ref="char:EOLhyphen"/>ly uncovered,</hi> pag. 360. hath theſe words: <hi>If hee that ſeemes Religi<g ref="char:EOLhyphen"/>ons will yet be idle, falſe, un<g ref="char:EOLhyphen"/>dutifull, and ſtubborne, rayle at Ceremonies, Biſhops &amp; Com<g ref="char:EOLhyphen"/>mon-Prayer, disdaine to be corrected and maintaine his faults, That man or Woman wil never have any true Reli<g ref="char:EOLhyphen"/>gion in him till with a</hi> cudgell <hi>all theſe coun<g ref="char:EOLhyphen"/>terfeits be bea<g ref="char:EOLhyphen"/>ten off.</hi>
+               </note> D. <hi>Cornelius Burgeſſe</hi> (who is one of them<g ref="char:EOLhyphen"/>ſelves) being well applyed, will not ſooner bring them to right wits and underſtanding, than Hellebore or any other Medicine the College of Phyſitians can preſeribe?</p>
+            <p n="19">19. Whether moſt Parliament-men, all Committee<g ref="char:EOLhyphen"/>men, Exciſe-men, Sequeſtrators, Aſſembly-men, CLſ<g ref="char:EOLhyphen"/>ſes, &amp;c. wiſhed not now that they had not medled with the buſineſſe? And whether they would not willingly give all they have got, to purchaſe that repoſe of Conſcience and ſecuritie that many honeſt loyall men whom they have undone poſſeſſe with comfort?</p>
+            <p>Reſolved upon all theſe Queſtions, That none but deſpe<g ref="char:EOLhyphen"/>tate conſcious perſons, and ſuch who care not for their own ends to ſacrifice the peace and glory of the Engliſh Nation, will act or incourage men to their certaine deſtruction by a ſecond War, and the oppoſition of the King and the Army: And if any ſuch be, they muſt expect to be torne in pieces, as being the worſt of men, and the moſt pernicious enemies to the Common-Wealth.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
